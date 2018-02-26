@@ -1,0 +1,150 @@
+PORT LOUIS (VICTORIA
+SQUARE) 
+-
+BASSIN 
+Route 
+3C
+NTC
+Weekdays
+Saturdays
+Sundays & 
+Public Holidays
+1
+st
+bus
+Last bus
+1
+st
+bus
+Last bus
+1
+st
+bus
+Last bus
+Port Louis
+06h00
+16h55
+06h00
+16h55
+06h00
+16h55
+Bassin
+Weekday frequency
+Time of departure
+06h00
+-
+09h00
+09h00
+-
+16h55
+Direction 1
+30 minutes
+60 minutes
+Direction 2
+30 minutes
+60 minutes
+DIRECT
+ION  1
+DIRECTION  2 
+Fare 
+Stage
+Locality
+Average 
+journey 
+times in 
+minutes
+Fare 
+Stage
+Locality
+Averag
+e 
+journey 
+times in 
+minutes
+0
+Port Louis (Victoria Square)
+0
+Bassin
+1
+Brabant (SPAR)
+1
+La Louise
+2
+G.R.N.W.
+2
+Quatre Bornes (Cite Saint 
+Jean)
+3
+Cor
+omandel (Sunray Hotel)
+3
+Belle Rose (Pepsi Cola)
+4
+Belle Etoile (Tamil Social Hall)
+4
+Rose Hill (Place Cardinal 
+Margeot)
+5
+Beau Bassin (Vinayak Mandir)
+5
+Beau Bassin (Cercle de Beau 
+Bassin)
+6
+Beau Bassin (Cercle de Beau 
+Bassin)
+6
+Beau Bassin (Vin
+ayak Mandir)
+7
+Rose Hill (Place Cardinal Margeot)
+7
+ 
+Belle Etoile (Tamil Social Hall)
+ 
+ 
+8
+ 
+Belle Rose (Pepsi Cola)
+ 
+ 
+8
+ 
+Coromandel (Sunray Hotel)
+ 
+ 
+9
+ 
+Quatre Bornes (Cite Saint Jean)
+ 
+ 
+9
+ 
+G.R.N.W.
+ 
+ 
+10
+ 
+La Louise
+ 
+ 
+10
+ 
+Brabant (SPAR)
+ 
+ 
+11
+ 
+Bassin
+ 
+ 
+11
+ 
+Port Louis (V
+ictoria Square)
+ 
+ 
+ 
+ 
+ 
+ 
+58

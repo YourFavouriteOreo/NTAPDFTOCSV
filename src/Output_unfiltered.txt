@@ -1,0 +1,265 @@
+ 
+24
+ 
+PORT LOUIS (VICTORIA
+ 
+SQUARE) 
+
+ 
+ROSE HILL (PLACE 
+CARDINAL 
+MARGEOT)
+ 
+Route 1
+ 
+Including 
+A/C 
+Buses
+ 
+RHT
+ 
+Weekdays
+ 
+Saturdays
+ 
+Sundays & 
+ 
+Public Holidays
+ 
+1
+st
+ 
+bus
+ 
+Last bus
+ 
+1
+st
+ 
+bus
+ 
+Last bus
+ 
+1
+st
+ 
+bus
+ 
+Last bus
+ 
+Port Louis
+ 
+06h15
+ 
+19h00
+ 
+06h15
+ 
+19h00
+ 
+06h15
+ 
+06h45
+ 
+Rose Hi
+ll
+ 
+05h45
+ 
+18h15
+ 
+05h45
+ 
+18h45
+ 
+06h15
+ 
+18h45
+ 
+Weekday frequency
+ 
+ 
+ 
+ 
+ 
+Time of departure
+ 
+06h00 
+
+ 
+18h00
+ 
+18h00 
+
+ 
+18h30
+ 
+Direction 1
+ 
+5
+-
+6 minutes
+ 
+15 minutes
+ 
+Time of departure
+ 
+05h40 
+
+ 
+17h30
+ 
+17h30 
+
+ 
+18h30
+ 
+Direction 2
+ 
+5 minutes
+ 
+15 minutes
+ 
+DIRECTION  
+ 
+DIRECTION  2
+ 
+Fare
+ 
+Stage
+ 
+Locality
+ 
+Average 
+Journey 
+Times in 
+minutes
+ 
+Fare 
+Stage
+ 
+Locality
+ 
+Average 
+journey 
+times in 
+minutes
+ 
+0
+ 
+Port Louis (Victoria Square)
+ 
+ 
+0
+ 
+Rose Hill (Place Cardinal 
+Margeot)
+ 
+ 
+1
+ 
+Brabant (SPAR)
+ 
+6
+ 
+1
+ 
+Beau Bassin (Cercle de 
+Beau Bassin)
+ 
+10
+ 
+2
+ 
+G.R.N.W.
+ 
+13
+ 
+2
+ 
+Beau 
+Bassin (Vinayak 
+Mandir)
+ 
+15
+ 
+3
+ 
+Coromandel (Sunray Hotel)
+ 
+18
+ 
+3
+ 
+Belle Etoile (Tamil Social 
+Hall)
+ 
+18
+ 
+4
+ 
+Belle Etoile (Tamil Social 
+Hall)
+ 
+21
+ 
+4
+ 
+Coromandel (Sunray Hotel)
+ 
+23
+ 
+5
+ 
+Beau Bassin (Vinayak 
+Mandir)
+ 
+25
+ 
+5
+ 
+G.R.N.W.
+ 
+28
+ 
+6
+ 
+Beau Bassin (Cercle de 
+Beau Bassin)
+ 
+3
+0
+ 
+6
+ 
+Brabant (SPAR)
+ 
+36
+ 
+7
+ 
+Rose Hill (Place Cardinal 
+Margeot)
+ 
+40
+ 
+7
+ 
+Port Louis (Victoria Square)
+ 
+40
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ ENDOFPAGE

@@ -1,0 +1,293 @@
+QUATRE BORNES (TRAFF
+IC CENTRE) 
+-
+BAIE DU C
+AP
+Route 5
+Individual 
+Operator
+Weekdays
+Saturdays
+Sundays & 
+Public Holidays
+1
+st
+bus
+Last bus
+1
+st
+bus
+Last bus
+1
+st
+bus
+Last bus
+Quatre Bornes
+08h00
+16h30
+08h00
+16h30
+08h00
+16h30
+Baie du Cap
+06h00
+14h30
+06h00
+14h30
+06h00
+14h30
+Weekday frequency
+Ti
+me of departure
+05h25
+-
+08h20
+08h20
+-
+13h55
+13h55
+-
+14h45
+14h45
+-
+1
+6
+h30
+Direction 1
+15 minutes
+20 minutes
+15 minutes
+15 minutes
+Direction 2
+15 minutes
+20 minutes
+15 minutes
+20 minutes
+DIRECTION  1
+DIRECTION  2 
+Fare 
+Stage
+Locality
+Average 
+journey 
+times in 
+minut
+es
+Fare 
+Stage
+Locality
+Average 
+journey 
+times in 
+minutes
+0
+Quatre Bornes (Traffic Centre)
+0
+Baie du Cap
+1
+La Louise
+1
+Maconde
+2
+Palma (Government School)
+2
+3
+Palma (Junction Bassin Estate)
+3
+La Prairie (Beac
+h)
+4
+Beaux Songes (Reservoir)
+4
+Le Morne (End of Village)
+5
+Montee Bol (Junction Geoffroy 
+Road)
+5
+Le Morne (Football Ground)
+6
+Bambous (Mangues Vert Doux)
+6A
+Le Morne (Le Berjaya Hotel)
+7
+Bambous (Junction Black River / 
+Geoffroy Roads)
+7A
+Le Mo
+rne (Le Paradis Hotel)
+8
+Bambous (Dragon Store)
+6
+Le Morne (Hotel Junction)
+9
+Junction Flic en Flac
+7
+Coteau Raffin
+10
+Clarence (Beginning of Village)
+8
+La Gaulette
+11
+Clarence (End of Village)
+9
+Case Noyale
+12
+Riviere du Rempart Bridge
+10
+P
+etite Riviere Noire (End of Village)
+13
+Tamarin (Beginning of Village)
+11
+Petite Riviere Noire (Salt Pans)
+14
+Tamarin (Salt Pans)
+12
+Montee Bois Puant
+15
+La Preneuse
+13
+Grande Riviere Noire (Trois Bras Store)
+16
+Grande Riviere Noire (Salt Pans)
+14
+Grande Riviere Noire (Salt Pans)
+17
+Grande Riviere Noire (Trois Bras 
+Store)
+15
+La Preneuse
+18
+Montee Bois Puant
+16
+Tamarin (Salt Pans)
+19
+Petite Riviere Noire (Salt Pans)
+17
+Tamarin (Beginning of Village)
+20
+Petite Riviere Noire (End of 
+Vill
+age)
+18
+Riviere du Rempart Bridge
+21
+Case Noyale
+19
+Clarence (End of Village)
+22
+La Gaulette
+ 
+ 
+20
+ 
+Clarence (Beginning of Village)
+ 
+ 
+23
+ 
+Coteau Raffin
+ 
+ 
+21
+ 
+Junction Flic en Flac
+ 
+ 
+24
+ 
+Le Morne (Hotel Junction)
+ 
+ 
+22
+ 
+Bambous (Dragon Store)
+ 
+ 
+25A
+ 
+Le Morne (Le
+ 
+Paradis Hotel)
+ 
+ 
+23
+ 
+Bambous (Junction Black River / Geoffroy 
+Roads)
+ 
+ 
+26A
+ 
+Le Morne (Le Berjaya Hotel)
+ 
+ 
+24
+ 
+Bambous (Mangues Vert Doux)
+ 
+ 
+25
+ 
+Le Morne (Football Ground)
+ 
+ 
+25
+ 
+Montee Bol (Junction Geoffroy Road)
+ 
+ 
+26
+ 
+Le Morne (End of Village)
+ 
+ 
+26
+ 
+Beaux Songes (R
+eservoir)
+ 
+ 
+27
+ 
+La Prairie (Beach)
+ 
+ 
+27
+ 
+Palma (Junction Bassin Estate)
+ 
+ 
+28
+ 
+
+ 
+ 
+28
+ 
+Palma (Government School)
+ 
+ 
+29
+ 
+Maconde
+ 
+ 
+29
+ 
+La Louise
+ 
+ 
+30
+ 
+Baie du Cap
+ 
+105
+ 
+30
+ 
+Quatre Bornes (Traffic Centre)
+ 
+ 
+
+58
